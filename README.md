@@ -1,6 +1,5 @@
-# pygame-test
-This is an attempt at building a game in python using pygame<br>
-Following this tutorial<br>
-https://www.techwithtim.net/tutorials/game-development-with-python/side-scroller-pygame/background/
+# Higher or Lower Game
+This is an attempt at building a game in python called high or lower<br>
+Following no tutorials only relying on my experience from class<br>
 
 
